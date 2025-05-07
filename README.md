@@ -2,7 +2,7 @@
 ## OVERVIEW
 I performed an analysis in EXCEL on a real estate dataset, creating a visual dashboard to highlight key trends, patterns and actionable insights. 
 Real Estate Data Analytics Report.
-## LINK TO THE CLEANED DATASET ()
+## LINK TO THE CLEANED DATASET ( https://github.com/Ekperezie/REAL-ESTATE-DATASET-ANALYSIS/blob/main/REALTOR%20CLEANED%20DATA%201.csv )
 
 ## 1. Objective
 This project aimed to uncover:
@@ -33,7 +33,7 @@ Excel: Used for building dashboards and visualizations
 -	Average sale prices and total revenue are highest in urbanized states with premium property markets.
 -	States with more brokers tend to generate more overall revenue, but not necessarily higher average prices.
 
-## LINK TO THE DASHBOARD ()
+## LINK TO THE DASHBOARD ( https://github.com/Ekperezie/REAL-ESTATE-DATASET-ANALYSIS/blob/main/REALTOR%20DASHBORD%20.xlsx )
 ## 4. Conclusion
 
 -	The analysis highlights that high-value properties, not high volume alone, determine a broker’s contribution to company revenue. Geographic hotspots like Massachusetts offer strong pricing and sales activity, while broker strategy should focus on targeting premium listings for optimal performance.
