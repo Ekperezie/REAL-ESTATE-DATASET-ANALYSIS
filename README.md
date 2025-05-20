@@ -14,6 +14,8 @@ C.	Revenue and pricing patterns across states
 SQL: Used for cleaning and preparing the dataset
 Excel: Used for building dashboards and visualizations
 
+![realtor picture](https://github.com/user-attachments/assets/e9918b71-bb1d-4441-93af-eb1d4c5b096e)
+
 ## 3. Key Insights
 ## Geographic Trends
 -	Massachusetts generated the highest total sales revenue (~$67M), followed by Rhode Island and Connecticut.
@@ -33,7 +35,7 @@ Excel: Used for building dashboards and visualizations
 -	Average sale prices and total revenue are highest in urbanized states with premium property markets.
 -	States with more brokers tend to generate more overall revenue, but not necessarily higher average prices.
 
-## LINK TO THE DASHBOARD ( https://github.com/Ekperezie/REAL-ESTATE-DATASET-ANALYSIS/blob/main/REALTOR%20DASHBORD%20.xlsx )
+
 ## 4. Conclusion
 
 -	The analysis highlights that high-value properties, not high volume alone, determine a broker’s contribution to company revenue. Geographic hotspots like Massachusetts offer strong pricing and sales activity, while broker strategy should focus on targeting premium listings for optimal performance.
